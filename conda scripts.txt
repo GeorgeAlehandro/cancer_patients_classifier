@@ -1,0 +1,8 @@
+conda create --name projectCancerClassifier python=3.9
+conda activate projectCancerClassifier
+conda install -c anaconda ipykernel
+python -m ipykernel install --user --name=projectCancerClassifier
+conda install -c conda-forge scikit-learn
+conda install -c conda-forge umap-learn
+conda install -c conda-forge seaborn
+conda upgrade -c conda-forge scikit-learn

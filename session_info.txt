@@ -1,0 +1,28 @@
+
+Click to view session information
+
+-----
+matplotlib          3.3.4
+numpy               1.22.4
+pandas              1.5.0
+seaborn             0.11.1
+session_info        1.0.0
+sklearn             1.2.0
+umap                0.5.3
+-----
+
+Click to view modules imported as dependencies
+
+-----
+IPython             7.22.0
+jupyter_client      6.1.12
+jupyter_core        4.7.1
+jupyterlab          3.0.14
+notebook            6.3.0
+-----
+Python 3.8.8 (default, Apr 13 2021, 19:58:26) [GCC 7.3.0]
+Linux-5.11.0-49-generic-x86_64-with-glibc2.10
+-----
+Session information updated at 2023-01-01 09:40
+
+
