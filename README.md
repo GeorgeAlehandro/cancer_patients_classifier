@@ -23,10 +23,14 @@ python -m ipykernel install --user --name=projectCancerClassifier
 conda install -c conda-forge scikit-learn
 conda install -c conda-forge umap-learn
 conda install -c conda-forge seaborn
+conda upgrade -c conda-forge scikit-learn
 ```
 ## Running the script
 Either by running
 ```{}
 python3 main.py
 ```
-Or by opening the jupyter notebook file
+Or by opening the jupyter notebook file. It's better to follow the jupyter notebook file rather than running the script on one go.
+
+## Report
+The report of this study is availabe in PDF format.
